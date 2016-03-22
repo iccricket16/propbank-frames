@@ -4,6 +4,7 @@
     <roleset id="thaw.01" name="defrost">
       <aliases>
         <alias framenet="Cause_change_of_phase Change_of_phase" pos="v" verbnet="">thaw</alias>
+  <alias framenet="" pos="v" verbnet="">thawing</alias>
       </aliases>
       <note>THAW-V NOTES: VN updated by Julia, 10/2010. Member of Vncls other_cos-45.4, weather-57 (no roles for weather class). (from thaw.01-v)</note>
       <roles>
